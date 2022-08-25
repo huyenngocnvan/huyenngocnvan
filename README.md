@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huynn</h1>
-<h3 align="center">I'm a 3rd year student at VNUHCM - University of Information Technology, specialized in Computer Science.</h3>
+<h3 align="center">I'm a 3rd year student at VNUHCM - UIT, specialized in Computer Science.</h3>
 
 - 🔭 I’m currently working on **Human-Object Interaction**
 
