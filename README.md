@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **20521424@gm.uit.edu.vn**
 
-- ⚡ Fun fact **My favourite subject in school was Literature, which is why I decided to become an article writer:>>**
+- ⚡ Fun fact **My favourite subject in school was Literature, which is why I decided to become an article writer :>>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
