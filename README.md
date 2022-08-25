@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huynn</h1>
-<h3 align="center">I'm a 3rd year student at VNUHCM - UIT, specialized in Computer Science.</h3>
+<h3 align="center">I'm a 3rd year student at VNUHCM - University of Information Technology, specialized in Computer Science.</h3>
 
 - 🔭 I’m currently working on **Human-Object Interaction**
 
@@ -9,11 +9,9 @@
 
 - 📫 How to reach me **20521424@gm.uit.edu.vn**
 
-- ⚡ Fun fact **My favourite subject in school was Literature, which is why I decided to become an article writer :>>**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/huyenngocnvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/huyenngocnvan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/huyenngocnvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/huyenngocnvan" height="30" width="40" /></a>
 <a href="https://fb.com/huyenngocnvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huyenngocnvan" height="30" width="40" /></a>
 </p>
 
